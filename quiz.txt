@@ -1,0 +1,48 @@
+8-1002-1143
+
+Comandos Utilizados en el quiz:
+
+git --version
+cd inf221
+git config --global user.name "Kan-25"
+git config --global user.email "giovanni.coronado@up.ac.pa"
+git clone https://github.com/Kan-25/quiz.git
+cd quiz
+git branch
+git checkout -b giovanni
+git branch
+git checkout -b Alexis
+git branch
+git checkout -b coronado
+git branch
+git checkout giovanni
+git branch 
+En la carpeta creada se crea el archivo  universidad.txt 
+git add .
+git commit -m "carrera" 
+git add .
+git commit -m "provincia"
+git add .
+git commit -m "distrito"
+git add .
+git commit -m "barrio"
+git add .
+git commit -m "imagen"
+mkdir imágenes
+git add .
+git commit -m "imagenes"
+git add .
+git commit -m "modificado de txt"
+git add .
+git commit -m "nueva imagen"
+git add .
+git commit -m "reemplazo de imagen"
+
+git push origin giovanni
+remote: Permission to Kan-25/quiz.git denied to gcor235.
+fatal: unable to access 'https://github.com/Kan-25/quiz.git/': The requested URL returned error: 403
+PS C:\Users\coron\inf221\quiz>
+
+
+enlace del repositorio:
+https://github.com/Kan-25/quiz#
